@@ -1,2 +1,2 @@
 ## Welcome to my profile
-I'm a Web2 penetration tester and cloud security engineer with a keen interest in all things security and development. Recently, I've been captivated by SUI Move and see it as the perfect platform to leave my mark. Currently, I'm actively hunting for bugs in the wild and collaborating with a friend to learn by building; we're also constructing a DEX on SUI. Additionally, I contribute to auditing ETH protocols through the Protector Guild. Feel free to reach out if you need assistance—I'm always eager to uncover bugs, especially if there are snacks involved... 🍿
+I'm a Web2 penetration tester and cloud security engineer.
